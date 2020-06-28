@@ -1,4 +1,4 @@
-## Classification algorithms in data in banking
+# Classification algorithms in data in banking
 ## Information about this project
 The goal of this project is to choose the best a machine learning classification algorithm to predict whether the client will subscribe a term deposit.
 ## Domain information about the data
