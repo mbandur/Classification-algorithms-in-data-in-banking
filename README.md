@@ -28,6 +28,7 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 - Seaborn
 - Scikit-learn
 - Xgboost
+- Pickle
 
 ## Models used in this project:
 
