@@ -7,20 +7,15 @@ Often, more than one contact to the same client was required, in order to access
 ## More info about data set
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
+# Scope of work
 1) Exploratory Data Analysis
-
 2) Feature Engineering and Data Cleaning
-
 3) Preparing features into suitable form for modeling
-
 4) Modeling - selection of the best models with default settings
-
 5) Modeling - selection of the best models with class weights
-
 6) Modeling - selection of the best models with grid search
 
-
-## Technologies used in this project:
+## Technologies used in this project
 - Python 3.7
 - Pandas
 - Numpy
@@ -30,7 +25,7 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 - Xgboost
 - Pickle
 
-## Models used in this project:
+## Models used in this project
 
 - Logistic Regression
 - Decision Tree Classifier
