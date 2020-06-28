@@ -1,4 +1,4 @@
-# Classification algorithms in data in banking
+## Classification algorithms in data in banking
 ## Information about this project
 The goal of this project is to choose the best a machine learning classification algorithm to predict whether the client will subscribe a term deposit.
 ## Domain information about the data
@@ -7,7 +7,7 @@ Often, more than one contact to the same client was required, in order to access
 ## More info about data set
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
-# Scope of work
+## Scope of work
 1) Exploratory Data Analysis
 2) Feature Engineering and Data Cleaning
 3) Preparing features into suitable form for modeling
