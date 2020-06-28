@@ -34,5 +34,3 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 - SVC
 - KNeighbors Classifier
 - XGBoost Classifier
-
-## Final results
