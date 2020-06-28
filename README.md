@@ -15,6 +15,7 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 4) Modeling - selection of the best models with default settings
 5) Modeling - selection of the best models with class weights
 6) Modeling - selection of the best models with grid search
+7) Final overview and comparison of all models results
 
 ## Technologies used in this project
 - Python 3.7
