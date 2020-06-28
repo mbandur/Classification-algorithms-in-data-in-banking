@@ -58,3 +58,14 @@ def model_result(model_r):
     
     MAE = model_r[3]
     return {model_type: [ACC, AUC, PRECISION_ALL, RECALL_ALL, F1_ALL, PRECISION_1, RECALL_1, F1_1, MAE]}   
+
+def max_scores(data):
+    max_scores = []
+    for i in range(len(data.columns) - 1):
+        col =  data[data.columns[i]]
+        col_nam = data.columns[i]
+        val = col[col.argmax()]
+        ind = data.index[col.argmax()]
+        max_scores.append([col_nam, ind, val])
+    max_scores = pd.DataFrame(max_scores, columns=['score', 'model', 'value'])
+    return max_scores
