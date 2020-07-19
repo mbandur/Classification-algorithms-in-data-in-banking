@@ -33,5 +33,4 @@ https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 - Decision Tree Classifier
 - Random Forest Classifier
 - SVC
-- KNeighbors Classifier
 - XGBoost Classifier
